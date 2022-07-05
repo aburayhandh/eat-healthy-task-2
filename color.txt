@@ -1,0 +1,29 @@
+.banner-title
+color: #575757;
+
+.banner-skip
+color: #fb9149;
+
+.link-button
+background-image: linear-gradient(#fd5031,#fb8f48);
+
+.section-title
+color: #707070;
+
+.recipies-section-title
+color: #707070;
+
+.recipies-items-box
+box-shadow: 2px 2px 30px #c4bdbd;
+
+.footer-title
+color:#575757;
+
+.footer-eat
+color: #fb9149;
+
+.footer-area
+background-color: #0b0d17;
+
+.footer-paragraph
+color: #cccdcf;
